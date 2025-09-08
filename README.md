@@ -17,11 +17,9 @@
 - Last Invoice Date by Country
 - Customer-Level KPIs
 
-![ETL Flow](images/bronze_layer.png)
 
 ## 📎 Notebook Exports
-- [View HTML Notebook](Ecommerce_ETL_Databricks.html)
-- [Download PDF](Ecommerce_ETL_Databricks.pdf)
+- [View HTML Notebook](https://github.com/AJ23233/ecommerce-sales-analytics-databricks/blob/master/ECom_ETL_Pipeline.html)
 
 ---
-✨ Connect with me on [LinkedIn](your-linkedin-url) for more data engineering projects!
+✨ Connect with me for more projects!
